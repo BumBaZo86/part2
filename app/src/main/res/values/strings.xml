@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="rules">RULES</string>
+    <string name="high_amp_low"><![CDATA[High & Low]]></string>
+</resources>
